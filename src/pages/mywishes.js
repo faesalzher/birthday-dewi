@@ -99,7 +99,7 @@ const Root = styled(Box)(({ theme }) => ({
 
 const styles = {
   paperContainer: {
-    backgroundImage: `url(${"/static/images/home/bg1.jpg"})`,
+    backgroundImage: "url(https://drive.google.com/uc?export=view&id=11fqtU4yj5nIxMsuLi7WUuvIrHkoySgXu)",
     backgroundPosition: 'center',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',

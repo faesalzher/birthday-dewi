@@ -129,7 +129,7 @@ const Page = () => {
                         <Typography variant="h7" color="text.primary">on becoming </Typography>
                         <img
                           alt=""
-                          src="/static/images/home/25yearsold.png"
+                          src="https://drive.google.com/uc?export=view&id=1IhlQuQVbqnvdfnPn10wze9lFhSiLibXY"
                           style={{
                             display: 'inline-block',
                             maxWidth: 25,
@@ -178,7 +178,7 @@ const Page = () => {
                       <Box sx={{ textAlign: 'center' }}>
                         <img
                           alt=""
-                          src="/static/images/home/28jan.png"
+                          src="https://drive.google.com/uc?export=view&id=1VHf13HWpTHEmuogQRZiu6RsiFaPsNJ5z"
                           style={{
                             display: 'inline-block',
                             maxWidth: '100%',

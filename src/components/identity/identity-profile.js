@@ -10,7 +10,7 @@ import {
 } from '@mui/material';
 
 const user = {
-  avatar: '/static/images/home/ident.jpg',
+  avatar: 'https://drive.google.com/uc?export=view&id=1dvjj_3vYrZXWzl-K4zq4xxvCHt7eXzfV',
   city: 'Malang',
   country: 'Indonesia',
   jobTitle: 'Cutest Girl',
