@@ -47,7 +47,7 @@ function AlertDialog() {
           <DialogContentText id="alert-dialog-description">
             <Typography variant="body1" color="text.secondary">
               Hi Dewi, anyway thanks from the gift you gave me earlier on my birthday, i really like it especially the book, i was so surpsised and fascinated by it. Damn you! really? how can i top this.....
-              Seems like, thanks doesn't enough. Well ok thanks hahaha. Your gift was too cute, i can't help it. That was the first time a girl gave a present to me, so it was special, and especially from you.
+              Seems like, thanks doesnt enough. Well ok thanks hahaha. Your gift was too cute, i cant help it. That was the first time a girl gave a present to me, so it was special, and especially from you.
             </Typography>
             <Typography variant="body1" color="text.secondary">
               I felt loved. I said i dont know how to react to a gift before.
@@ -60,10 +60,10 @@ function AlertDialog() {
 
             </Typography>
             <Typography variant="body1" color="text.secondary">
-              Don't laugh ok!!!.
+              Dont laugh ok!!!.
             </Typography>
             <Typography variant="body1" color="text.secondary">
-              So i planned to make this whole website dedicated about you and about us! and this page contains a few moments about us since we've met. Hope you still remember some of it.
+              So i planned to make this whole website dedicated about you and about us! and this page contains a few moments about us since weve met. Hope you still remember some of it.
               If you dont, then ill make you remember hehe...
             </Typography>
           </DialogContentText>

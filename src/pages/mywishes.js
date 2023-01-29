@@ -69,7 +69,7 @@ function CustomizedAccordions() {
   return (
     <div>
       {mywishesmodel.map((mywishes, i) => (
-        <Accordion>
+        <Accordion key={i}>
           <AccordionSummary aria-controls={mywishes.name} id={mywishes.name}>
             <Typography variant="h7" color='primary.light'>{mywishes.name}</Typography>
           </AccordionSummary>
