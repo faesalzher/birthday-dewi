@@ -1,5 +1,6 @@
 {
-  "name": "material-kit-react",
+  "homepage": "https://faesalzher.github.io/birthday-dewi",
+  "name": "dewi-birthday",
   "author": "Devias IO",
   "licence": "MIT",
   "version": "2.1.1",
@@ -10,7 +11,9 @@
     "start": "next start",
     "export": "next export",
     "lint": "next lint",
-    "lint-fix": "next lint --fix"
+    "lint-fix": "next lint --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emotion/cache": "11.10.3",
@@ -39,6 +42,7 @@
   "devDependencies": {
     "eslint": "8.23.1",
     "eslint-config-next": "12.3.0",
+    "gh-pages": "^5.0.0",
     "material-kit-react": "^1.10.0"
   }
 }
